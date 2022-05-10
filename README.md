@@ -1,5 +1,5 @@
 - 👋 Hi, I’m (Md Yasir) @yasir8412
-- 👀 I’m interested in Software Devloper
+- 👀 I’m interested in Software Developer
 - 🌱 I’m currently learning Full stack Devloper
 - 📫 How to reach me via Github,Linkedin.
 
